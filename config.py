@@ -4,7 +4,7 @@ SUPPLIER_API_URL = os.getenv("SUPPLIER_API_URL", "https://console-docs.apipost.c
 SUPPLIER_API_KEY = os.getenv("SUPPLIER_API_KEY")
 
 SMMX_API_URL = os.getenv("SMMX_API_URL", "https://smm-x.com/api")
-SMMX_API_KEY = os.getenv("SMMX_API_KEY", "*************************")
+SMMX_API_KEY = os.getenv("SMMX_API_KEY", "f311620fc24d9b3ab97d82bc898bc32a")
 
 DB_FILE = os.getenv("DB_FILE", "database.sqlite")
 BALANCE_LOG_FILE = os.getenv("BALANCE_LOG_FILE", "balance_log.txt")
